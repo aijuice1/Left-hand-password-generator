@@ -7,6 +7,6 @@ Use in your terminal of choice
 If you want a 8 or 12 character password - change -c16 to 8 or 12
 
 
-```
+```bash
 </dev/urandom tr -dc '12345!@#$%qwertQWERTasdfgASDFGzxcvbZXCVB' | head -c16; echo ""
 ```
