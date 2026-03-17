@@ -1,4 +1,4 @@
-# Left-Hand-Password-Generator \udb83\ude46
+# Left-Hand-Password-Generator ☝
 
 This will auto-generate a 16 character password that can be used with your left hand
 
